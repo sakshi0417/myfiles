@@ -3,6 +3,6 @@ changes made by  jadon
 
 class{
 
-System.out.PrintIn("this is code by jadon"
+System.out.Println("this is code by jadon"
 
 }
